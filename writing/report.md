@@ -7,22 +7,22 @@
 
  1. Which software did you use to conduct your analysis?
 
-#TODO
+for this analysisi i used the online demo for the needleman wunsch model to compare the two strings of sequences. 
 
  2. How similar were the two sequences (`s1.fasta` and `s2.fasta`) which you applied an alignment program?
 
- #TODO
+ the two sequences are very similar only having a couple proteins off. The score for the two compared sequences was 1 and most pairs are matches. 
 
 
  3. Are the two sequences closely related to each other, in your opinion?
 
- #TODO
+ I believe they are closely related due to the make up of the two sequences being almost identical with only a few minor misses. 
 
 
  4. What proof do you have to suggest such a claim?
 
 
- #TODO
+all of the proof is within the data with the needleman wunsch algorithm. Using this we can tell that the two genetic codes match up with eachother very well with only a few changes. there are very few mismatches and gaps to differ the two sequences from eachother. 
 
 
 
